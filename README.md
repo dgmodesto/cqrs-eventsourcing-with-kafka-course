@@ -2,6 +2,10 @@
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
+### Architecture
+
+![This is an image](./assets/architecture-post-social-media-udemy-course.png)
+
 ### What is this repository for?
 
 - Quick summary
@@ -27,7 +31,3 @@ This README would normally document whatever steps are necessary to get your app
 
 - Repo owner or admin
 - Other community or team contact
-
-### Architecture
-
-![This is an image](./assets/architecture-post-social-media-udemy-course.png)
